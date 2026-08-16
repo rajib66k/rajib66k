@@ -35,11 +35,7 @@ I'm a passionate **Blockchain Developer** focused on building secure, scalable, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajib66k&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajib's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajib66k&theme=tokyonight&hide_border=true" alt="Rajib's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rajib66k&theme=tokyonight&hide_border=true" alt="Rajib's GitHub Streak" />
 </p>
 
 ---
