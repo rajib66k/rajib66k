@@ -1,21 +1,27 @@
-# Hi 👋, I'm Rajib Pradhan
+<h1 align="center">Hi 👋, I'm Rajib</h1>
+<h3 align="center">Passionate Blockchain developer from India</h3>
 
-### 🚀 Blockchain Developer | Web3 Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajib66k&label=Profile%20views&color=0e75b6&style=flat" alt="rajib" /> </p>
 
-I'm a passionate **Blockchain Developer** focused on building secure, scalable, and decentralized applications using smart contracts and modern Web3 technologies.
+<p align="left"> <a href="https://twitter.com/rajib66k" target="blank"><img src="https://img.shields.io/twitter/follow/rajib?logo=twitter&style=for-the-badge" alt="rajib" /></a> </p>
 
----
+- 🌱 I’m currently learning **Smart contract security, Rust**
 
-## 🧑‍💻 About Me
+- 💬 Ask me about **Solidity**
 
-* 🔗 **Profession:** Blockchain Developer
-* 💻 **Languages:** Solidity, JavaScript
-* 🛠️ **Frameworks & Libraries:** Foundry, React
-* 💬 **Ask me about:** Solidity
-* 🌱 Exploring **Web3, DeFi & Smart Contract Development**
-* ⚡ Building the decentralized future
+- 📫 How to reach me **rajib66k@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rajib68k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajib" height="30" width="40" />
+<a href="https://instagram.com/rajib28k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajib" height="30" width="40" /></a>
+
+![Rajib's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rajib66k?theme=radical&Ring=FF77AA&Border=9D00FF&Text=FFFFFF)
+
+## Most Written Languages
+![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=rajib66k&hide=javascript,css,scss,html&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rajib66k)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 
@@ -23,32 +29,6 @@ I'm a passionate **Blockchain Developer** focused on building secure, scalable, 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
-
-## 💬 Ask Me About
-
-**Solidity • Smart Contracts • Foundry • Web3 • Blockchain Development • DeFi**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajib66k&theme=tokyonight&hide_border=true" alt="Rajib's GitHub Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Some of my blockchain projects include:
-
-* 🔐 **Lending Protocol**
-* 🎯 **Prediction Market**
-* 🪙 **ICO Contract**
-
----
 
 ## 📫 Reach Me
 
