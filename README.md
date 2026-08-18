@@ -32,5 +32,5 @@
 
 ## 📫 Reach Me
 
-* 📧 **Email:** `rajib66k@example.com`
+* 📧 **Email:** `rajib66k@gmail.com`
 * 🐙 **GitHub:** [@rajib66k](https://github.com/rajib66k)
